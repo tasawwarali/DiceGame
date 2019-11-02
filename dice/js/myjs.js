@@ -21,7 +21,7 @@ $(document).ready(function(){
 		}
 	});
 
-
+console.log('hello Alone');
 
 	$("#pri_btn").click(function (e) {
 
