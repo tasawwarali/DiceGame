@@ -22,6 +22,7 @@ $(document).ready(function(){
 	});
 
 console.log('hello Alone');
+console.log('Yui Ballad');
 
 	$("#pri_btn").click(function (e) {
 
